@@ -1,0 +1,10 @@
+﻿namespace CRUDMVVMQ22025
+{
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
+}
